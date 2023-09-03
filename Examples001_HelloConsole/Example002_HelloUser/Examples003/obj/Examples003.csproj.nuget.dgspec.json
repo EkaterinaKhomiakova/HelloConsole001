@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
+    "C:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Example002_HelloUser\\Examples003\\Examples003.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
+    "C:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Example002_HelloUser\\Examples003\\Examples003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
-        "projectName": "Examples001_HelloConsole",
-        "projectPath": "c:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Example002_HelloUser\\Examples003\\Examples003.csproj",
+        "projectName": "Examples003",
+        "projectPath": "C:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Example002_HelloUser\\Examples003\\Examples003.csproj",
         "packagesPath": "C:\\Users\\ILYA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\ILYA\\Desktop\\Examples\\Examples001_HelloConsole\\Example002_HelloUser\\Examples003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ILYA\\AppData\\Roaming\\NuGet\\NuGet.Config"
